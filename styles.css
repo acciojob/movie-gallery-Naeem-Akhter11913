@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+img{
+	height:130px;
+	width:150px;
+}
+.row{
+	display:flex;
+}
+.col-sm-4{
+	margin:0px 10px;
+}
